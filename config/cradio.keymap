@@ -59,7 +59,7 @@
 
         miao {
             bindings = <&lt 5 C>;
-            key-positions = <30>;
+            key-positions = <30 31>;
         };
 
         bau {
